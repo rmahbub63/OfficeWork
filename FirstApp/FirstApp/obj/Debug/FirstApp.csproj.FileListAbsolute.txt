@@ -1,0 +1,7 @@
+E:\Training\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\Training\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+E:\Training\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\Training\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+E:\Training\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+E:\Training\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+E:\Training\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

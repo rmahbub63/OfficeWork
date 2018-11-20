@@ -1,0 +1,7 @@
+E:\Training\TheGradeBook\TheGradeBook\bin\Debug\TheGradeBook.exe.config
+E:\Training\TheGradeBook\TheGradeBook\bin\Debug\TheGradeBook.exe
+E:\Training\TheGradeBook\TheGradeBook\bin\Debug\TheGradeBook.pdb
+E:\Training\TheGradeBook\TheGradeBook\obj\Debug\TheGradeBook.csprojAssemblyReference.cache
+E:\Training\TheGradeBook\TheGradeBook\obj\Debug\TheGradeBook.csproj.CoreCompileInputs.cache
+E:\Training\TheGradeBook\TheGradeBook\obj\Debug\TheGradeBook.exe
+E:\Training\TheGradeBook\TheGradeBook\obj\Debug\TheGradeBook.pdb
